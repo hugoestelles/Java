@@ -10,7 +10,7 @@ Se trata de una aplicación desarrollada utilizando MVC que permite realizar con
 
 ![SQL](fotos/sql.png)
 
-[Video Demo en YouTube](link)
+[Video Demo en YouTube](https://www.youtube.com/watch?v=QAoY5XXy7qg)
 
 Nombre de la rama: SQL
 
@@ -20,7 +20,7 @@ Es una aplicación en la que podemos buscar directorios, nos visualiza los fiche
 
 ![ficheros](fotos/ficheros.png)
 
-[Video Demo en YouTube](link)
+[Video Demo en YouTube](https://www.youtube.com/watch?v=-ElSsSQz4cA)
 
 Nombre de la rama: Ficheros
 
