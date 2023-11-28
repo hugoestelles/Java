@@ -10,7 +10,7 @@ This is an application developed using MVC that allows you to perform SQL querie
 
 ![SQL](fotos/sql.png)
 
-[YouTube Demo Video](link)
+[YouTube Demo Video](https://www.youtube.com/watch?v=QAoY5XXy7qg)
 
 Branch Name: SQL
 
@@ -20,7 +20,7 @@ This is an application where you can search for directories, view the files in t
 
 ![Files](fotos/ficheros.png)
 
-[YouTube Demo Video](link)
+[YouTube Demo Video](https://www.youtube.com/watch?v=-ElSsSQz4cA)
 
 Branch Name: Ficheros
 
